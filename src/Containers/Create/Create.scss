@@ -1,0 +1,15 @@
+.container-fluid1{
+    background:linear-gradient(127deg , aqua , orange);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+background-color:white;
+width: 40%;
+border-radius:1rem;
+box-shadow: 5px 5px 5px gray;
+padding: 3rem 2rem;
+}

@@ -1,0 +1,6 @@
+
+export default {
+    ACTION_TYPE_CREATE:"CREATE",
+    ACTION_TYPE_DELETE:"DELETE",
+    ACTION_TYPE_UPDATE:"UPDATE"
+}
